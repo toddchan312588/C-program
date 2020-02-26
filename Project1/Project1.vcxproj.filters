@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PAT_B1001.cpp">
+    <ClCompile Include="PAT_B1032.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
